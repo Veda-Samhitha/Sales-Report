@@ -1,4 +1,4 @@
-Overview
+
 This Power BI project offers an in-depth analysis of sales data by visualizing key performance indicators (KPIs) and trends. The dashboard is divided into five sections:
 
 Sales Overview
